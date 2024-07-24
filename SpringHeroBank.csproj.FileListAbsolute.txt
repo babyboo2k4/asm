@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\bin\Debug\net8.0\SpringHeroBank.exe
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\bin\Debug\net8.0\SpringHeroBank.deps.json
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\bin\Debug\net8.0\SpringHeroBank.runtimeconfig.json
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\bin\Debug\net8.0\SpringHeroBank.dll
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\bin\Debug\net8.0\SpringHeroBank.pdb
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.dll
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\refint\SpringHeroBank.dll
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.pdb
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\SpringHeroBank.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\SpingHeroBank\SpringHeroBank\obj\Debug\net8.0\ref\SpringHeroBank.dll
